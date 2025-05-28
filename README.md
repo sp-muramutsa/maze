@@ -1,4 +1,4 @@
-# Maze Solver
+# AI Maze Solver
 
 A Python project implementing multiple maze-solving algorithms to find and visualize paths through maze inputs.
 
