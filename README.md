@@ -1,4 +1,4 @@
-### Maze Solver
+# Maze Solver
 
 A Python project implementing multiple maze-solving algorithms to find and visualize paths through maze inputs.
 
@@ -44,12 +44,12 @@ Walls and paths are represented by specific characters (see example files).
 ## Search Algorithms
 Each algorithm explores the maze differently:
 
-# Uninformed Algorithms
+## Uninformed Algorithms
 - BFS guarantees the shortest path in an unweighted maze.
 
 - DFS explores deeply but may not find the shortest path.
 
-# Informed Algorithms (Artificially Intelligent)
+## Informed Algorithms (Artificially Intelligent)
 - A* uses heuristics for efficient shortest path finding.
 
 - GBFS uses heuristics to guide search but not always optimal.
